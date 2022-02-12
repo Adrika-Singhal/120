@@ -1,0 +1,55 @@
+.heading
+  {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div
+  {
+    float:none;
+    background: white ;
+    padding:10px ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+  .result_para_tag span
+  {
+   white-space: pre-line;
+  }
+  .footer
+  {
+    position:fixed;
+    color:rgb(128, 9, 0) ;
+    bottom:0; 
+    width:100%; 
+    background-color:lightskyblue;
+    line-height: 3;
+    text-align: center;
+  }
+ .bottle
+  {
+  background-color: blanchedalmond;
+}
+.ring
+ {
+ background-color: lightgoldenrodyellow;
+}
+.book
+ {
+ background-color: lightgrey;
+}
+.scissors
+ {
+ background-color: lightslategray;
+}
+.pencil
+ {
+ background-color: lightsteelblue;
+}
